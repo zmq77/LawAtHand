@@ -1,12 +1,5 @@
-# -*- coding: utf-8 -*-
-# SECRET_KEY（flask项目密钥,不用管,也用不到）
+# Flask SECRET KEY
 SECRET_KEY = "asghnjadfbtywyn"
 
-# openAi api key
-OPENAI_API_KEY = ""
-
-# openAi 官方 api
-URL = "https://api.openai.com/v1/chat/completions"
-
-# openAi 代理 api
-# URL = "https://open.aiproxy.xyz/v1/chat/completions"
+# ZhipuAI API KEY
+ZhipuAI_API_KEY = "41105e96da8053a4abe2b4cf7e930bf2.1de5GEEf4CfcpOH5"
