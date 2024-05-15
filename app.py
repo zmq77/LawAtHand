@@ -9,7 +9,7 @@ import json
 from zhipuai import ZhipuAI
 
 # 创建一个ZhipuAI对象，使用提供的API key初始化
-client = ZhipuAI(api_key="41105e96da8053a4abe2b4cf7e930bf2.1de5GEEf4CfcpOH5") # 填写APIKey
+client = ZhipuAI(api_key="46a00a976e14aa046f9e8abf4af696be.c1Km6uViTkkveRBQ") # 填写APIKey
 prompts = []
 
 # 创建一个Flask应用实例
