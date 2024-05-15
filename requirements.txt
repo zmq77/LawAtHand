@@ -1,4 +1,0 @@
-Flask==3.0
-requests==2.25.1
-zhipuai==2.0.1
-gunicorn==21.2.0
